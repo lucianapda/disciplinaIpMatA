@@ -1,4 +1,4 @@
-<!-- [x]TODO:INICIO atualizar -->  
+<!-- [ ]TODO:INICIO atualizar -->  
 [JavaDownLoad]: <https://adoptium.net/> "JavaDownLoad"  
 [VSCodeDownLoad]: <https://code.visualstudio.com/> "Para instalar o VSCode"
 
