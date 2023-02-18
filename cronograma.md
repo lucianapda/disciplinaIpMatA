@@ -174,7 +174,7 @@ Fontes: [src](./Unidade4/src "src")
 
 - comandos de controle de fluxo: seleção;  
   - Grupo COMPOSTO E e OU (&& e ||): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e- "atividadeAula-GrupoComposto").  
+    - [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e "atividadeAula-GrupoComposto").  
 
 ### [Aula_17](Unidade4/aula.md#Aula_17 "05-04-2023 quarta-feira ") 05-04-2023 quarta-feira
 
@@ -185,7 +185,7 @@ Fontes: [src](./Unidade4/src "src")
 ### [Aula_18](Unidade4/aula.md#Aula_18 "05-04-2023 quarta-feira ") 05-04-2023 quarta-feira
 
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e- "atividadeAula-GrupoComposto").  
+- [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e "atividadeAula-GrupoComposto").  
 - [atividadeAula-GrupoEscolha](Unidade4/atividadeAula.md#grupo-escolha-switch "atividadeAula-GrupoEscolha").  
 
 ### [Aula_19](Unidade4/aula.md#Aula_19 "10-04-2023 segunda-feira ") 10-04-2023 segunda-feira
@@ -250,7 +250,7 @@ Fontes: [src](./Unidade5/src "src")
 
 - comandos de controle de fluxo: repetição;  
   - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for> "atividadeAula-GrupoFor").  
+    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for "atividadeAula-GrupoFor").  
 <!-- [ ] Aviso: conversa com os alunos <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55423467> -->
 - conversa com os alunos (individualmente).  
 
@@ -270,7 +270,7 @@ Fontes: [src](./Unidade5/src "src")
 
 - comandos de controle de fluxo: repetição;  
   - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for> "atividadeAula-GrupoFor").  
+    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for "atividadeAula-GrupoFor").  
 - conversa com os alunos (individualmente).  
 
 ### [Aula_31](Unidade5/aula.md#Aula_31 "08-05-2023 segunda-feira ") 08-05-2023 segunda-feira
