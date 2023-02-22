@@ -264,7 +264,7 @@ Fontes: [src](Unidade5/src "src")
   
 ### [Aula_28](Unidade5/aula.md#Aula_28 "  01-05-2023  segunda-feira  ")  01-05-2023  segunda-feira
   
-[Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
+Feriado: Dia do Trabalhador  
   
 ### [Aula_29](Unidade5/aula.md#Aula_29 "  03-05-2023  quarta-feira  ")  03-05-2023  quarta-feira
   
