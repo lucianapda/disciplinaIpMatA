@@ -141,7 +141,7 @@ Fontes: [src](Unidade3/src "src")
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
   
 ### [Unidade3-Atividades](Unidade3 "Unidade3-Atividades") Prazo:   26-03-2023  domingo
-0  
+  
 - [atividadeUri](Unidade3/atividadeUri.md "atividadeUri");  
 - [atividadeAula](Unidade3/atividadeAula.md "atividadeAula");  
 - assistir a videoaula da Unidade4.  
