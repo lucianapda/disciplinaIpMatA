@@ -9,9 +9,9 @@
 # Algumas anotações das aulas
 
 Mensagem "do dia", do programador ...  
-    Deseja conhecer um pouco sobre mais sobre o setor de informática na região ..  
+    Deseja conhecer um pouco mais sobre o setor de informática na região ..  
     Se increva e assita os PodCast  
-    [Olhar imagem](img/../imgs/DebugadosCompilados.png "Olhar imagem")  
+    ![Olhar imagem](img/../imgs/DebugadosCompilados.png "Olhar imagem")  
 
 ## Rabiscos
 
