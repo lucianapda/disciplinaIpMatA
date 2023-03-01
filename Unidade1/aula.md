@@ -10,7 +10,7 @@
 
 Mensagem "do dia", do programador ...  
     Deseja conhecer um pouco mais sobre o setor de informática na região ..  
-    Se increva e assita os PodCast  
+    Se inscreva e assista os PodCasts <https://linktr.ee/vishubfurb>  
     ![Olhar imagem](img/../imgs/DebugadosCompilados.png "Olhar imagem")  
 
 ## Rabiscos
