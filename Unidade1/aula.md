@@ -48,7 +48,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 - links gerais de toda a disciplina
   - cronograma: divisão das unidades, qual conteúdo, prazos de entrega
   - repositório: todo o conteúdo da disciplina e os exercícios das atividades práticas
-  - horário da monitória
+  - [horário da monitória](https://github.com/dalton-reis/dalton-reis/tree/main/_._/Monitores)  
 
 ### Unidade 1
 
