@@ -22,9 +22,9 @@ public class Uni3Exe01 {
     Scanner teclado = new Scanner(System.in);
 
     // Variáveis
-    double largura;
-    double altura;
-    double area;
+    double largura = 0;
+    double altura = 0;
+    double area = 0;
 
     // Entrada
     System.out.println("Entre c/ largura: ");
@@ -34,10 +34,9 @@ public class Uni3Exe01 {
     
     // Processo
     area = largura * altura;
-    System.out.println("Área: " + area);
     
     // Saída
-    System.out.println(area);
+    System.out.println("Área: " + area);
 
     teclado.close();
   }
