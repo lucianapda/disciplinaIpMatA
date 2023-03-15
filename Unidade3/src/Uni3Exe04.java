@@ -1,5 +1,3 @@
-import java.security.interfaces.RSAKey;
-
 /*
  e imprimira
 sua média ponderada (as notas tem pesos respectivos de 5, 3 e 2).

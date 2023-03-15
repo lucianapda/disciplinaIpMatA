@@ -36,7 +36,6 @@ public class Uni3Exe05 {
     //__ Processos: 
     // double valorPorFrango = valorChip + valorAnel;
     // double totalGastoGranja = qtdFrangos * valorPorFrango;
-
     double totalGastoGranja = qtdFrangos * (valorChip + valorAnel);
 
     //__ Saídas: 
