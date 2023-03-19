@@ -8,7 +8,7 @@ Bom, agora vocês devem acessar o link
 [https://www.urionlinejudge.com.br/judge/en/disciplines/join/10490](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/10490> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/10490")  
 
 <!-- [ ]TODO:INICIO atualizar -->
-para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: IP_BCC_NOT_A \[2023-1\].  
+para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: IP_BCC_MAT_A \[2023-1\].  
 
 <!-- [ ]TODO:INICIO atualizar -->
 Assim que acessar a disciplina informe a seguinte chave de acesso (token): V2weqdp  
