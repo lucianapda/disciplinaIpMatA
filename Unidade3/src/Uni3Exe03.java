@@ -1,38 +1,24 @@
 /*
-Enunciado ___ Um motorista deseja abastecer seu tanque de combustível. Escreva
+__ Enunciado: https://github.com/dalton-reis/disciplinaIpMat/blob/main/Unidade3/atividadeAula.md#uni3exe03java
+Um motorista deseja abastecer seu tanque de combustível. Escreva
+um programa para ler o preço do litro da gasolina e o valor do pagamento e
+exibir quantos litros ele conseguiu colocar no tanque. 
 
-Gordura ___
-um programa para 
+__ Análise: OK
 
-Entrada __
+__ Gordura: 
+Um motorista deseja abastecer seu tanque de combustível. 
+Escreva um programa para  e
+
+//__ Entradas: 
 ler o preço do litro da gasolina
-valor do pagamento
+ler o valor do pagamento
 
-Processo ___
-QuantidadeLitros = valorPagamento / precoLitro
+//__ Processos: 
+qtdLitros = valor do pagamento / preço do litro da gasolina
 
-Saída __
-quantos litros ele conseguiu colocar no tanque.
-
-Testes ___ A
-valorLitro = 2
-valorPagto = 20,00
-qtdLitros = 10
-
-Testes ___ B
-valorLitro = 2,4
-valorPagto = 20,00
-qtdLitros = 8,3333333333
-
-Testes ___ B
-valorLitro = -2,4
-valorPagto = 20,00
-qtdLitros = 
-
-Testes ___ C
-valorLitro = 0
-valorPagto = 20,00
-qtdLitros = 
+//__ Saídas: 
+exibir quantos litros ele conseguiu colocar no tanque
 
 */
 
@@ -42,22 +28,37 @@ public class Uni3Exe03 {
   public static void main(String[] args) {
     Scanner teclado = new Scanner(System.in);
 
-    double valorLitro;
-    double valorPagto;
+    // __ Variáveis:
+    double valorPagamento;
+    double precoLitroGasolina;
     double qtdLitros;
 
-    // Entrada ___
-    System.out.print("Valor litro: ");
-    valorLitro = teclado.nextDouble();
-    System.out.print("Valor pago: ");
-    valorPagto = teclado.nextDouble();
+    // __ Entradas:
+    System.out.println("Informe o valor pago: ");
+    valorPagamento = teclado.nextDouble();
+    System.out.println("Informe o preço da gasoline (litro):");
+    precoLitroGasolina = teclado.nextDouble();
 
-    // Processo ___
-    qtdLitros = valorPagto / valorLitro;
+    //__ Processos: 
+    qtdLitros = valorPagamento / precoLitroGasolina;
 
-    // Saída ___
-    System.out.println("Quantidade de litros abastecida: " + qtdLitros);
+    // __ Saídas:
+    System.out.println("Quantidade de litros: " + qtdLitros);
 
     teclado.close();
   }
 }
+
+/*
+__ Valores de Testes: 
+_ Caso 1 ___
+  valorPagamento = 200,00
+  precoLitroGasolina = 4,00
+  qtdLitros = 50 litros
+
+_ Caso 2 ___
+  valorPagamento = 123,45
+  precoLitroGasolina = 6,78
+  qtdLitros = 18.207964601769913
+
+*/

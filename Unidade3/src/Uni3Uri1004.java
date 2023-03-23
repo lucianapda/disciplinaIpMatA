@@ -25,19 +25,15 @@ PROD = 27
 import java.util.Scanner;
 
 public class Uni3Uri1004 {
-  public static void main(String[] args) {
-    Scanner teclado = new Scanner(System.in);
 
-    // _ Entrada
-    int valorA = teclado.nextInt();
-    int valorB = teclado.nextInt();
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
 
-    // _ Processo
-    int produto = valorA * valorB;
+		int valor1 = teclado.nextInt();
+		int valor2 = teclado.nextInt();
+		int PROD = valor1 * valor2;
 
-    // _ Saída
-    System.out.println("PROD = " + produto);
-
-    teclado.close();
-  }
+		System.out.println("PROD = " + PROD);
+		teclado.close();
+	}
 }

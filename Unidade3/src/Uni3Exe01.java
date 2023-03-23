@@ -1,17 +1,28 @@
 /*
-terrenos retangulares.  e depois .
 
-Gordura ____
-Uma imobiliária vende apenas 
-Faça um programa para 
+__ Enunciado:
+https://github.com/dalton-reis/disciplinaIpMat/blob/main/Unidade3/atividadeAula.md#uni3exe01java
 
-Entrada __
-ler as dimensões de um terreno
+Uma imobiliária vende apenas terrenos retangulares. Faça um programa para ler as
+dimensões de um terreno e depois exibir a área do terreno.
 
-Processo __
+__ Análise: OK
 
-Saída __
-exibir a área do terreno
+__ Gordura: 
+
+Uma imobiliária vende apenas Faça um programa para 
+
+//__ Entradas: 
+
+ler(largura) ler(comprimento)
+
+//__ Processos: 
+
+area = largura x comprimento
+
+//__ Saídas: // área do terreno
+
+imprimir(area)
 
 */
 
@@ -21,24 +32,36 @@ public class Uni3Exe01 {
   public static void main(String[] args) {
     Scanner teclado = new Scanner(System.in);
 
-    // Variáveis
-    double largura = 0;
-    double altura = 0;
-    double area = 0;
+    // __ Variáveis:
+    double largura;
+    double comprimento;
 
-    // Entrada
-    System.out.println("Entre c/ largura: ");
+    // __ Entradas:
+    System.out.print("Entre com a largura: ");
     largura = teclado.nextDouble();
-    System.out.println("Entre c/ altura: ");
-    altura = teclado.nextDouble();
-    
-    // Processo
-    area = largura * altura;
-    
-    // Saída
-    System.out.println("Área: " + area);
+    System.out.print("Entre com a comprimento: ");
+    comprimento = teclado.nextDouble();
+
+    // __ Processos:
+    double area = largura * comprimento;
+
+    // __ Saídas: área do terreno
+
+    System.out.println("A área do terreno: " + area);
 
     teclado.close();
   }
 }
 
+/*
+ * __ Valores de Testes:
+ * _ Caso 1 ___
+ * largura: 2
+ * comprimento: 3
+ * area: 6
+ * 
+ * _ Caso 2 ___
+ * largura: 3.7
+ * comprimento: 2.4
+ * area: 8.88
+ */

@@ -4,12 +4,10 @@
 [Unidade2_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=736647> "Unidade2_Questionário"
 
 [Unidade3_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=736644> "Unidade3_Questionário"
-[Unidade3_RespostasAtividadeAula]: < > "Unidade3_RespostasAtividadeAula"
-[Unidade3_RespostasAtividadeURI]: < > "Unidade3_RespostasAtividadeURI"
+<!-- [Unidade3_RespostasAtividadeAula]: < > "Unidade3_RespostasAtividadeAula" -->  
 
-[Unidade4_Questionário]: <> "Unidade4_Questionário"
-[Unidade4_RespostasAtividadeAula]: < > "Unidade4_RespostasAtividadeAula"
-[Unidade4_RespostasAtividadeURI]: <> "Unidade4_RespostasAtividadeURI"
+<!-- [Unidade4_Questionário]: <> "Unidade4_Questionário" -->  
+<!-- [Unidade4_RespostasAtividadeAula]: <> "Unidade4_RespostasAtividadeAula" -->  
 
 [Prova1_Respostas_parteA]: < > "Prova1_Respostas_parteA"
 
@@ -41,7 +39,7 @@ Dia da semana:  Segundas  (9:30\~11:10)    Quartas  (7:30\~11:10)
 Ementa - fundamentos da programação de computadores: solução de problemas e técnicas para representação da solução.  
 Fontes: [src](Unidade1/src "src")  
   
-### [Aula_01](Unidade1/aula.md#Aula_01 "  27-02-2023  segunda-feira  ")  27-02-2023  segunda-feira
+### [Aula_01](Unidade1/aulaAnotacoes.md#Aula_01 "  27-02-2023  segunda-feira  ")  27-02-2023  segunda-feira
   
 - apresentação, plano de ensino e AVA3: [PlanoEnsinoAVA];  
 - conteúdo e cronograma (aulas teóricas x práticas), frequências e avaliações (DION), e bibliografia;  
@@ -54,12 +52,12 @@ Fontes: [src](Unidade1/src "src")
 <!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
 - visão geral dos fundamentos da programação de computadores.  
   
-### [Aula_02](Unidade1/aula.md#Aula_02 "  01-03-2023  quarta-feira  ")  01-03-2023  quarta-feira
+### [Aula_02](Unidade1/aulaAnotacoes.md#Aula_02 "  01-03-2023  quarta-feira  ")  01-03-2023  quarta-feira
   
 - visão geral dos fundamentos da programação de computadores;  
 - demonstração de um `Hello World` usando Java e VSCode (mas o mínimo possível).  
   
-### [Aula_03](Unidade1/aula.md#Aula_03 "  01-03-2023  quarta-feira  ")  01-03-2023  quarta-feira
+### [Aula_03](Unidade1/aulaAnotacoes.md#Aula_03 "  01-03-2023  quarta-feira  ")  01-03-2023  quarta-feira
   
 - demonstração de um `Hello World` usando Java e VSCode (mas o mínimo possível);  
 - instalar Java e VSCode (próxima aula).  
@@ -79,18 +77,18 @@ Fontes: [src](Unidade1/src "src")
 Ementa - construção de algoritmos: dados, tipos, comandos e instruções.  
 Fontes: [src](Unidade2/src "src")  
   
-### [Aula_04](Unidade2/aula.md#Aula_04 "  06-03-2023  segunda-feira  ")  06-03-2023  segunda-feira
+### [Aula_04](Unidade2/aulaAnotacoes.md#Aula_04 "  06-03-2023  segunda-feira  ")  06-03-2023  segunda-feira
   
 - construção de algoritmos;  
 - usando Java e VSCode (workspace/project/class).  
   
-### [Aula_05](Unidade2/aula.md#Aula_05 "  08-03-2023  quarta-feira  ")  08-03-2023  quarta-feira
+### [Aula_05](Unidade2/aulaAnotacoes.md#Aula_05 "  08-03-2023  quarta-feira  ")  08-03-2023  quarta-feira
   
 - método de resolução de algoritmos;  
 - **liberar material** da próxima unidade (3).  
 <!-- [ ] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->  
   
-### [Aula_06](Unidade2/aula.md#Aula_06 "  08-03-2023  quarta-feira  ")  08-03-2023  quarta-feira
+### [Aula_06](Unidade2/aulaAnotacoes.md#Aula_06 "  08-03-2023  quarta-feira  ")  08-03-2023  quarta-feira
   
 - método de resolução de algoritmos.  
   
@@ -106,28 +104,28 @@ Fontes: [src](Unidade2/src "src")
 Ementa - introdução a linguagem de programação: introdução a uma IDE, características da linguagem de programação, tipos de dados, palavras reservadas, operadores, comandos de entrada e saída, método main e conceitos de subprograma (sub-rotinas e funções), passagem de parâmetros por valor e referência e retorno da função.  
 Fontes: [src](Unidade3/src "src")  
   
-### [Aula_07](Unidade3/aula.md#Aula_07 "  13-03-2023  segunda-feira  ")  13-03-2023  segunda-feira
+### [Aula_07](Unidade3/aulaAnotacoes.md#Aula_07 "  13-03-2023  segunda-feira  ")  13-03-2023  segunda-feira
   
 - demonstração de exemplos: Java e VSCode.  
   
-### [Aula_08](Unidade3/aula.md#Aula_08 "  15-03-2023  quarta-feira  ")  15-03-2023  quarta-feira
+### [Aula_08](Unidade3/aulaAnotacoes.md#Aula_08 "  15-03-2023  quarta-feira  ")  15-03-2023  quarta-feira
   
 - algoritmos do URI (apresentar o URI, tem de ser **exato** …);  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 <!-- [ ] Aviso: nome no URI ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-79567521> -->  
   
-### [Aula_09](Unidade3/aula.md#Aula_09 "  15-03-2023  quarta-feira  ")  15-03-2023  quarta-feira
+### [Aula_09](Unidade3/aulaAnotacoes.md#Aula_09 "  15-03-2023  quarta-feira  ")  15-03-2023  quarta-feira
   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 <!-- [ ] Aviso: Frase do dia - praticar, praticar ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58979212> -->  
   
-### [Aula_10](Unidade3/aula.md#Aula_10 "  20-03-2023  segunda-feira  ")  20-03-2023  segunda-feira
+### [Aula_10](Unidade3/aulaAnotacoes.md#Aula_10 "  20-03-2023  segunda-feira  ")  20-03-2023  segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
   
-### [Aula_11](Unidade3/aula.md#Aula_11 "  22-03-2023  quarta-feira  ")  22-03-2023  quarta-feira
+### [Aula_11](Unidade3/aulaAnotacoes.md#Aula_11 "  22-03-2023  quarta-feira  ")  22-03-2023  quarta-feira
   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
@@ -135,7 +133,7 @@ Fontes: [src](Unidade3/src "src")
 - **liberar material** da próxima unidade (4).  
 <!-- [ ] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->  
   
-### [Aula_12](Unidade3/aula.md#Aula_12 "  22-03-2023  quarta-feira  ")  22-03-2023  quarta-feira
+### [Aula_12](Unidade3/aulaAnotacoes.md#Aula_12 "  22-03-2023  quarta-feira  ")  22-03-2023  quarta-feira
   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
