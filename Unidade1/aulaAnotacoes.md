@@ -13,12 +13,6 @@ Mensagem "do dia", do programador ...
     Se inscreva e assista os PodCasts <https://linktr.ee/vishubfurb>  
     ![Olhar imagem](img/../imgs/DebugadosCompilados.png "Olhar imagem")  
 
-## Rabiscos
-
-![Rabiscos](aulaRabiscos.drawio.svg)
-
-Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para quem quiser o Draw.io pode ser instalado no Windows/MacOS/Linux, ou mesmo usando direto no navegador em: [https://app.diagrams.net/](https://app.diagrams.net/ "https://app.diagrams.net/"). Ou ainda usando uma versão com um layout de writeboard [https://sketch.diagrams.net/](https://sketch.diagrams.net/ "https://sketch.diagrams.net/").  
-
 ## Introdução à Programação - Unidade 1
 
 ## Aula: 01 e 02
