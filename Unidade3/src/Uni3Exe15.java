@@ -1,15 +1,40 @@
 /*
+__ Enunciado:
+https://github.com/dalton-reis/disciplinaIpMat/blob/main/Unidade3/atividadeAula.md#uni3exe15java
+
+Construa um programa para ler um número inteiro (assuma até 3 dígitos) e imprima
+a saída da seguinte forma:
+
+X centena(s)  Y dezena(s) K unidade(s)  
+Exemplo, se for submetido o número 384, o programa deverá exibir:
+
+3 centena(s)  8 dezena(s) 4 unidade(s)
+
+__ Análise: 
+
+ok
+
+__ Gordura: 
+
+Construa um programa para 
+
 //__ Entradas: 
-ler(numero) // 0> e <1000
+
+ler(numero)
 
 //__ Processos: 
 
+centenas = numero / 100;
+restoCentenas = numero - (centenas * 100);
+
+dezenas = restoCentenas / 10;
+restoDezenas = restoCentenas - (dezenas * 10);
+
+unidades = restoDezenas
+
 //__ Saídas: 
-X centena(s)  Y dezena(s) K unidade(s)  
-Exemplo, se for submetido o número 384, o programa deverá exibir:
-3 centena(s)  8 dezena(s) 4 unidade(s)  
 
-
+imprimir(centenas,dezenas,unidades)
 */
 
 import java.util.Scanner;
@@ -18,30 +43,36 @@ public class Uni3Exe15 {
   public static void main(String[] args) {
     Scanner teclado = new Scanner(System.in);
 
-    //__ Entradas: 
-    System.out.println("Informe o número: ");
-    int numero = teclado.nextInt();// 0> e <1000
-    int centena = 0, dezena = 0, unidade = 0;
+    // Entrada
+    System.out.println("Número inteiro (XYK): ");
+    int numero = teclado.nextInt();
 
-    // //__ Processos A: 
-    // centena = numero / 100;
-    // numero = numero % 100;
-    // dezena  = numero / 10;
-    // numero = numero % 10;
-    // unidade = numero;
+    // Processo A (uma forma de fazer)
+    int centenas = numero / 100;
+    int dezenas  = numero / 10   - (centenas * 10);
+    int unidades = numero / 1    - (centenas * 100) - (dezenas * 10);
 
-    //__ Processos B: 
-    centena = numero / 100;
-    numero = numero - (centena * 100);
-    dezena  = numero / 10;
-    numero = numero - (dezena * 10);
-    unidade = numero;
+    // Processo B (outra forma de fazer o mesmo processo)
+    centenas = numero / 100;
+    int restoCentenas = numero - (centenas * 100);
+    dezenas = restoCentenas / 10;
+    int restoDezenas = restoCentenas - (dezenas * 10);
+    unidades = restoDezenas;
+        
+    // Saída
+    System.out.println(centenas + " centena(s) " + dezenas + " dezena(s) " + unidades + " unidade(s)");
 
-    //__ Saídas: 
-    System.out.println(centena + " centena(s)  " + dezena + " dezena(s) " + unidade + " unidade(s)");
-    
     teclado.close();
   }
 }
 
+/*
+__ Valores de Testes: 
+_ Caso 1 ___
 
+numero = 384
+qtdCentena = 3
+qtdDezena = 8
+qtdUnidade = 4
+
+*/
